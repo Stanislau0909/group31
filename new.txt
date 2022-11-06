@@ -1,2 +1,3 @@
 git status
 
+ Laptenok Stanislau Vitalevich , 25 age , 1 , 1000$ 
