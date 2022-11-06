@@ -1,0 +1,10 @@
+id 1
+summary: main page(header on the left) , buttom "sign in" don't work 
+STR: 1) open site capital.com 
+     2) click on the buttom "sign in"
+     3) see that happend 
+ER: open windwow , where user can write yourself data and sign in in the site .
+AR:don't open window 
+Severity: blocker 
+Priority: high
+attachment: - 
